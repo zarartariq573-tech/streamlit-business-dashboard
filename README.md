@@ -1,4 +1,4 @@
-# Global Superstore Business Dashboard
+# Interactive Business Dashboard
 
 ## 📊 Task Objective
 
