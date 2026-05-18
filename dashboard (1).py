@@ -13,7 +13,7 @@ st.set_page_config(
 # -----------------------------
 # Load Dataset
 # -----------------------------
-df = pd.read_excel("Global_Superstore2.xlsx"))
+df = pd.read_excel("Global_Superstore2.xlsx")
 
 # -----------------------------
 # Data Cleaning
